@@ -1,0 +1,29 @@
+/* You can add global styles to this file, and also import other style files */
+html,body{
+  height:100%;
+  padding:0;
+  margin:0;
+}
+
+.padding-top-20 {
+  padding-top: 20px;
+}
+
+.padding-bottom-20 {
+  padding-bottom: 20px;
+}
+
+.margin-bottom-5 {
+  margin-bottom: 5px;
+}
+
+.no-box-shadow-card {
+  box-shadow: none !important;
+  .card {
+    box-shadow: none !important;
+  }
+}
+
+.font-size-20 {
+  font-size:20px;
+}
